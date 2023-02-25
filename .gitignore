@@ -162,3 +162,4 @@ cython_debug/
 
 openai_qa/text/openai.com/*
 openai_qa/text/web_qa.ipynb
+openai_qa/web_qa.ipynb
